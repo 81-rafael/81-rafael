@@ -1,4 +1,5 @@
 # Olá, eu ou o Rafael silva e sou Desenvolvedor Full Stack! 🚀 <br>
+## Apaixonado por tecnologia... 👾🕹️
 
 ## Redes sociais: 📰<hr>
 
