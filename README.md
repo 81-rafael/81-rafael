@@ -1,7 +1,10 @@
-<h1 align="center"> Olá, eu ou o Rafael silva e sou Desenvolvedor Full Stack! 🚀</h1> <br>
+<h1 align="center">
+ Olá, eu ou o Rafael silva e sou Desenvolvedor Full Stack! 🚀
+</h1>
+
 <h2 align="center">
 Eu sou apaixonado por tecnologia e estou em busca da evolução  🕹️👾!
-</h2>
+</h2><hr>
 
 <h2>
 Redes sociais 📰
