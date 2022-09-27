@@ -35,7 +35,6 @@ Estou aprendendo 📝
 
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/><hr>
 
 <h2>Ferramentas 🔧</h2><br>
 <div style="display: inline_block">
